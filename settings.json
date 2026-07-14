@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "watersmp-Og8t.aternos.me",
-    "port": 48082,
+    "ip": "voxxle.aternos.me:27974",
+    "port": 27974,
     "version": "",
     "try-creative": false
   },
